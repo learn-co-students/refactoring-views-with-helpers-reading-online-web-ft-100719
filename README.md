@@ -334,5 +334,5 @@ When we start repeating the same pieces of presentation logic across more than o
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/refactoring-views-with-helpers-reading' title='Refactoring Views With Helpers'>Refactoring Views With Helpers</a> on Learn.co and start learning to code for free.</p>
 
 [strftime]: http://ruby-doc.org/core-2.2.0/Time.html#method-i-strftime
-[goodstrftime]: http://www.foragoodstrftime.com/
+[goodstrftime]: http://www.foragoodstrftim`e.com/
 [layouts]: http://guides.rubyonrails.org/layouts_and_rendering.html#using-the-content-for-method
